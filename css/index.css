@@ -1,0 +1,43 @@
+body {
+    display: block;
+    margin: 0px;
+}
+
+html {
+    background-color: black;
+}
+
+
+.custom-tri-1 {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.custom-tri-1 svg {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100px;
+}
+
+.custom-tri-1 .shape-fill {
+    fill: #ffca00;
+}
+
+.top {
+    background: #ffca00;
+}
+
+.top h1 {
+    margin: auto;
+}
+
+.top img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
